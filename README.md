@@ -16,7 +16,7 @@ Therefore if you can accurately predict the likelihood of the first stage rocket
 
 4 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab4_EDA_with_SQL.ipynb">EDA with SQL</a>
 
-5 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab5_EDA_with_Data_Visualisation.ipynb">EDA with visualisations</> 
+5 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab5_EDA_with_Data_Visualisation.ipynb">EDA with visualisations</a> 
 
 Lab 6 
 
