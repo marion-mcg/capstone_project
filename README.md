@@ -8,19 +8,19 @@ Therefore if you can accurately predict the likelihood of the first stage rocket
 
 ## Project Files
 
-Lab 1
+1 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab1_%20Data%20Collection%20API.ipynb">Data Collection with API</a>
 
-Lab 2
+2 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab2_Data_Collection_with_Webscraping.ipynb"> Data Collection with webscraping</a>
 
-Lab 3
+3 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab3_EDA.ipynb">Exploratory Data Analysis (EDA)</a>
 
-Lab 4
+4 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab4_EDA_with_SQL.ipynb">EDA with SQL</a>
 
-Lab 5 
+5 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab5_EDA_with_Data_Visualisation.ipynb">EDA with visualisations</> 
 
 Lab 6 
 
-Lab 7 
+7 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab7_SpaceX_Machine_Learning%20Prediction.ipynb">SpaceX Machine Learning Predictions</a> 
 
 Dashboard - <a href="https://github.com/marion-mcg/capstone_project/blob/main/dashboard.py">dashboard.py</a>
 
