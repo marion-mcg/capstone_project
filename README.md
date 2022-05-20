@@ -22,7 +22,7 @@ Lab 6
 
 Lab 7 
 
-Dashboard - dashboard.py
+Dashboard - <a hred="https://github.com/marion-mcg/capstone_project/blob/main/dashboard.py">dashboard.py</a>
 
 Presentation
 
