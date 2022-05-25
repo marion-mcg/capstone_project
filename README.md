@@ -16,11 +16,11 @@ Therefore if you can accurately predict the likelihood of the first stage rocket
 
 4 <a href ="https://github.com/marion-mcg/capstone_project/blob/main/Lab4_EDA_with_SQL.ipynb">EDA with SQL</a>
 
-5 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab5_EDA_with_Data_Visualisation.ipynb">EDA with visualisations</a> 
+5 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab5_EDA_with_Data_Visualisation_FINAL.ipynb">EDA with visualisations</a> 
 
 6 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab6_Data_visualisation_with_Folium.ipynb"> Data Visualisation with Folium</a> 
 
-7 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab7_SpaceX_Machine_Learning%20Prediction.ipynb">SpaceX Machine Learning Predictions</a> 
+7 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab7_SpaceX_Machine_Learning%20Predictions_FINAL.ipynb">SpaceX Machine Learning Predictions</a> 
 
 Dashboard - <a href="https://github.com/marion-mcg/capstone_project/blob/main/dashboard.py">dashboard.py</a>
 
