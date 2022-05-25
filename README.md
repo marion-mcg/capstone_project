@@ -20,7 +20,7 @@ Therefore if you can accurately predict the likelihood of the first stage rocket
 
 6 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab6_Data_visualisation_with_Folium.ipynb"> Data Visualisation with Folium</a> 
 
-7 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab7_SpaceX_Machine_Learning%20Prediction_FINAL.ipynb">SpaceX Machine Learning Predictions</a> 
+7 <a href="https://github.com/marion-mcg/capstone_project/blob/main/Lab7_SpaceX_Machine_Learning_Predictions_FINAL.ipynb">SpaceX Machine Learning Predictions</a> 
 
 Dashboard - <a href="https://github.com/marion-mcg/capstone_project/blob/main/dashboard.py">dashboard.py</a>
 
